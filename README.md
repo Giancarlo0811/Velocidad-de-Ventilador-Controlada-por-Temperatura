@@ -1,0 +1,1 @@
+# Velocidad-de-Ventilador-Controlada-por-Temperatura
