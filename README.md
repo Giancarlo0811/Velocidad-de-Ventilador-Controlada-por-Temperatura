@@ -13,4 +13,6 @@ El video contiene la demostración del circuito.
 ![alt text](./Imagenes/Diagrama.PNG)
 
 ## Montaje en protoboard
-![alt text](./Imagenes/Montaje.jpg)
+Para ver la demostración hacer click en la imagen para descargar el video.
+
+[![Watch the video](https://raw.githubusercontent.com/Giancarlo0811/Velocidad-de-Ventilador-Controlada-por-Temperatura/main/Imagenes/Montaje.jpg)](https://raw.githubusercontent.com/Giancarlo0811/Velocidad-de-Ventilador-Controlada-por-Temperatura/main/Demostracion.mp4)
